@@ -21,7 +21,7 @@ fi
 #fi
 
 
-numfiles=$( ls "$FILESDIR" | wc -l )
-matchfiles=$( grep -r $searchstr $FILESDIR | wc -l )
+numfiles=$(grep -Rl $searchstr $FILESDIR |  wc -l)
+matchfiles=$(grep -r $searchstr $FILESDIR | wc -l)
 echo "The number of files are ${numfiles} and the number of matching lines are ${matchfiles}"
 

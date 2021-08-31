@@ -7,4 +7,6 @@ linux
 linux
 github
 github
+human
+human
 
