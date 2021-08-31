@@ -1,0 +1,177 @@
+[2021-08-31 03:02:26Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2021-08-31 03:02:26Z INFO HostContext] Well known directory 'Bin': '/home/chaithra/Documents/assignment-1-chaisuresh/bin'
+[2021-08-31 03:02:26Z INFO HostContext] Well known directory 'Root': '/home/chaithra/Documents/assignment-1-chaisuresh'
+[2021-08-31 03:02:26Z INFO HostContext] Well known config file 'Credentials': '/home/chaithra/Documents/assignment-1-chaisuresh/.credentials'
+[2021-08-31 03:02:26Z INFO Listener] Runner is built for Linux (X64) - linux-x64.
+[2021-08-31 03:02:26Z INFO Listener] RuntimeInformation: Linux 5.11.0-27-generic #29~20.04.1-Ubuntu SMP Wed Aug 11 15:58:17 UTC 2021.
+[2021-08-31 03:02:26Z INFO Listener] Version: 2.280.3
+[2021-08-31 03:02:26Z INFO Listener] Commit: 409920e9f03bd38fe6e58807f069394993ce32e4
+[2021-08-31 03:02:26Z INFO Listener] Culture: en-US
+[2021-08-31 03:02:26Z INFO Listener] UI Culture: en-US
+[2021-08-31 03:02:26Z INFO HostContext] Well known directory 'Bin': '/home/chaithra/Documents/assignment-1-chaisuresh/bin'
+[2021-08-31 03:02:26Z INFO HostContext] Well known directory 'Root': '/home/chaithra/Documents/assignment-1-chaisuresh'
+[2021-08-31 03:02:26Z INFO Listener] Validating directory permissions for: '/home/chaithra/Documents/assignment-1-chaisuresh'
+[2021-08-31 03:02:26Z INFO CommandLineParser] Parse
+[2021-08-31 03:02:26Z INFO CommandLineParser] Parsing 1 args
+[2021-08-31 03:02:26Z INFO CommandLineParser] parsing argument
+[2021-08-31 03:02:26Z INFO CommandLineParser] HasArgs: False
+[2021-08-31 03:02:26Z INFO CommandLineParser] Adding Command: run
+[2021-08-31 03:02:26Z INFO Listener] Arguments parsed
+[2021-08-31 03:02:26Z INFO Runner] ExecuteCommand
+[2021-08-31 03:02:26Z INFO ConfigurationStore] currentAssemblyLocation: /home/chaithra/Documents/assignment-1-chaisuresh/bin/Runner.Listener.dll
+[2021-08-31 03:02:26Z INFO HostContext] Well known directory 'Bin': '/home/chaithra/Documents/assignment-1-chaisuresh/bin'
+[2021-08-31 03:02:26Z INFO ConfigurationStore] binPath: /home/chaithra/Documents/assignment-1-chaisuresh/bin
+[2021-08-31 03:02:26Z INFO HostContext] Well known directory 'Bin': '/home/chaithra/Documents/assignment-1-chaisuresh/bin'
+[2021-08-31 03:02:26Z INFO HostContext] Well known directory 'Root': '/home/chaithra/Documents/assignment-1-chaisuresh'
+[2021-08-31 03:02:26Z INFO ConfigurationStore] RootFolder: /home/chaithra/Documents/assignment-1-chaisuresh
+[2021-08-31 03:02:26Z INFO HostContext] Well known directory 'Bin': '/home/chaithra/Documents/assignment-1-chaisuresh/bin'
+[2021-08-31 03:02:26Z INFO HostContext] Well known directory 'Root': '/home/chaithra/Documents/assignment-1-chaisuresh'
+[2021-08-31 03:02:26Z INFO HostContext] Well known config file 'Runner': '/home/chaithra/Documents/assignment-1-chaisuresh/.runner'
+[2021-08-31 03:02:26Z INFO ConfigurationStore] ConfigFilePath: /home/chaithra/Documents/assignment-1-chaisuresh/.runner
+[2021-08-31 03:02:26Z INFO HostContext] Well known directory 'Bin': '/home/chaithra/Documents/assignment-1-chaisuresh/bin'
+[2021-08-31 03:02:26Z INFO HostContext] Well known directory 'Root': '/home/chaithra/Documents/assignment-1-chaisuresh'
+[2021-08-31 03:02:26Z INFO HostContext] Well known config file 'Credentials': '/home/chaithra/Documents/assignment-1-chaisuresh/.credentials'
+[2021-08-31 03:02:26Z INFO ConfigurationStore] CredFilePath: /home/chaithra/Documents/assignment-1-chaisuresh/.credentials
+[2021-08-31 03:02:26Z INFO HostContext] Well known directory 'Bin': '/home/chaithra/Documents/assignment-1-chaisuresh/bin'
+[2021-08-31 03:02:26Z INFO HostContext] Well known directory 'Root': '/home/chaithra/Documents/assignment-1-chaisuresh'
+[2021-08-31 03:02:26Z INFO HostContext] Well known config file 'MigratedCredentials': '/home/chaithra/Documents/assignment-1-chaisuresh/.credentials_migrated'
+[2021-08-31 03:02:26Z INFO ConfigurationStore] MigratedCredFilePath: /home/chaithra/Documents/assignment-1-chaisuresh/.credentials_migrated
+[2021-08-31 03:02:26Z INFO HostContext] Well known directory 'Bin': '/home/chaithra/Documents/assignment-1-chaisuresh/bin'
+[2021-08-31 03:02:26Z INFO HostContext] Well known directory 'Root': '/home/chaithra/Documents/assignment-1-chaisuresh'
+[2021-08-31 03:02:26Z INFO HostContext] Well known config file 'Service': '/home/chaithra/Documents/assignment-1-chaisuresh/.service'
+[2021-08-31 03:02:26Z INFO ConfigurationStore] ServiceConfigFilePath: /home/chaithra/Documents/assignment-1-chaisuresh/.service
+[2021-08-31 03:02:26Z INFO CommandSettings] Flag 'help': 'False'
+[2021-08-31 03:02:26Z INFO CommandSettings] Flag 'version': 'False'
+[2021-08-31 03:02:26Z INFO CommandSettings] Flag 'commit': 'False'
+[2021-08-31 03:02:26Z INFO CommandSettings] Flag 'check': 'False'
+[2021-08-31 03:02:26Z INFO CommandSettings] Command 'configure': 'False'
+[2021-08-31 03:02:26Z INFO CommandSettings] Command 'remove': 'False'
+[2021-08-31 03:02:26Z INFO CommandSettings] Command 'warmup': 'False'
+[2021-08-31 03:02:26Z INFO ConfigurationManager] LoadSettings
+[2021-08-31 03:02:26Z INFO ConfigurationStore] IsConfigured()
+[2021-08-31 03:02:26Z INFO ConfigurationStore] IsConfigured: True
+[2021-08-31 03:02:26Z INFO ConfigurationManager] Is configured: True
+[2021-08-31 03:02:26Z INFO ConfigurationStore] Read setting file: 313 chars
+[2021-08-31 03:02:26Z INFO ConfigurationManager] Settings Loaded
+[2021-08-31 03:02:26Z INFO ConfigurationStore] IsServiceConfigured()
+[2021-08-31 03:02:26Z INFO ConfigurationStore] IsServiceConfigured: False
+[2021-08-31 03:02:26Z INFO CommandSettings] Command 'run': 'True'
+[2021-08-31 03:02:26Z INFO ConfigurationStore] IsConfigured()
+[2021-08-31 03:02:26Z INFO ConfigurationStore] IsConfigured: True
+[2021-08-31 03:02:26Z INFO ConfigurationManager] Is configured: True
+[2021-08-31 03:02:26Z INFO Runner] Could not parse the argument value '' for StartupType. Defaulting to Manual
+[2021-08-31 03:02:26Z INFO Runner] Set runner startup type - Manual
+[2021-08-31 03:02:26Z INFO CommandSettings] Flag 'once': 'False'
+[2021-08-31 03:02:26Z INFO Runner] RunAsync
+[2021-08-31 03:02:26Z INFO ConfigurationManager] LoadSettings
+[2021-08-31 03:02:26Z INFO ConfigurationStore] IsConfigured()
+[2021-08-31 03:02:26Z INFO ConfigurationStore] IsConfigured: True
+[2021-08-31 03:02:26Z INFO ConfigurationManager] Is configured: True
+[2021-08-31 03:02:26Z INFO ConfigurationManager] Settings Loaded
+[2021-08-31 03:02:26Z INFO MessageListener] {
+  "AgentId": 22,
+  "AgentName": "chaithra-VirtualBox",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelines.actions.githubusercontent.com/b3Q6rGtZq0lKL7NlLXITz4mhFB9IG7rgtssN0Ki0u2O3VEuw4t",
+  "GitHubUrl": "https://github.com/cu-ecen-aeld/assignment-1-chaisuresh",
+  "WorkFolder": "_work"
+}
+[2021-08-31 03:02:26Z INFO MessageListener] Loading Credentials
+[2021-08-31 03:02:26Z INFO ConfigurationStore] HasCredentials()
+[2021-08-31 03:02:26Z INFO ConfigurationStore] stored True
+[2021-08-31 03:02:26Z INFO CredentialManager] GetCredentialProvider
+[2021-08-31 03:02:26Z INFO CredentialManager] Creating type OAuth
+[2021-08-31 03:02:26Z INFO CredentialManager] Creating credential type: OAuth
+[2021-08-31 03:02:26Z INFO HostContext] Well known directory 'Bin': '/home/chaithra/Documents/assignment-1-chaisuresh/bin'
+[2021-08-31 03:02:26Z INFO HostContext] Well known directory 'Root': '/home/chaithra/Documents/assignment-1-chaisuresh'
+[2021-08-31 03:02:26Z INFO HostContext] Well known config file 'RSACredentials': '/home/chaithra/Documents/assignment-1-chaisuresh/.credentials_rsaparams'
+[2021-08-31 03:02:26Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/chaithra/Documents/assignment-1-chaisuresh/.credentials_rsaparams
+[2021-08-31 03:02:26Z INFO MessageListener] Attempt to create session.
+[2021-08-31 03:02:26Z INFO MessageListener] Connecting to the Runner Server...
+[2021-08-31 03:02:26Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2021-08-31 03:02:26Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2021-08-31 03:02:26Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2021-08-31 03:02:26Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2021-08-31 03:02:26Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2021-08-31 03:02:26Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2021-08-31 03:02:26Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2021-08-31 03:02:26Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2021-08-31 03:02:26Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2021-08-31 03:02:27Z INFO MessageListener] VssConnection created
+[2021-08-31 03:02:27Z INFO Terminal] WRITE LINE: 
+[2021-08-31 03:02:27Z INFO Terminal] WRITE LINE: 
+[2021-08-31 03:02:27Z WARN GitHubActionsService] Authentication failed with status code 401.
+WWW-Authenticate: Bearer
+Strict-Transport-Security: max-age=2592000
+X-TFS-ProcessId: 87df92f9-0c8d-47f7-a646-de8d3ce59e9c
+ActivityId: e977d9a1-eb5e-4d7c-91f5-ed8578d1da3f
+X-TFS-Session: 2e1146f2-c188-4197-bce8-e74b2a6d7169
+X-VSS-E2EID: 461cccca-3474-4b2e-a11c-1636fb326544
+X-VSS-SenderDeploymentId: 1139089e-89fd-ce7a-6851-1ac6328a300e
+X-TFS-ServiceError: The+user+%27System%3aPublicAccess%3baaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa%27+is+not+authorized+to+access+this+resource.
+X-VSS-S2STargetService: 0000005A-0000-8888-8000-000000000000/visualstudio.com
+X-Cache: CONFIG_NOCACHE
+X-MSEdge-Ref: Ref A: 6E4B6816BAD444B7B6C2A33380170376 Ref B: DNAEDGE0119 Ref C: 2021-08-31T03:02:27Z
+Date: Tue, 31 Aug 2021 03:02:26 GMT
+
+[2021-08-31 03:02:27Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/chaithra/Documents/assignment-1-chaisuresh/.credentials_rsaparams
+[2021-08-31 03:02:27Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/chaithra/Documents/assignment-1-chaisuresh/.credentials_rsaparams
+[2021-08-31 03:02:27Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2021-08-31 03:02:27Z INFO MessageListener] Session created.
+[2021-08-31 03:02:27Z INFO Terminal] WRITE LINE: 2021-08-31 03:02:27Z: Listening for Jobs
+[2021-08-31 03:02:27Z INFO JobDispatcher] Set runner/worker IPC timeout to 30 seconds.
+[2021-08-31 03:02:28Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/chaithra/Documents/assignment-1-chaisuresh/.credentials_rsaparams
+[2021-08-31 03:02:28Z INFO MessageListener] Message '1' received from session 'fea8a19c-aff8-4039-b9e8-f01ca0e1fbf2'.
+[2021-08-31 03:02:28Z INFO JobDispatcher] Job request 1 for plan 75d72f1b-2f62-4ccb-bee4-97bb81e49608 job 0e10f8dd-85b5-5bee-19c6-47fc7db6f171 received.
+[2021-08-31 03:02:28Z INFO JobDispatcher] Pull OrchestrationId 75d72f1b-2f62-4ccb-bee4-97bb81e49608.unit-test.__default from JWT claims
+[2021-08-31 03:02:28Z INFO Terminal] WRITE LINE: 2021-08-31 03:02:28Z: Running job: unit-test
+[2021-08-31 03:02:28Z INFO JobDispatcher] Start renew job request 1 for job 0e10f8dd-85b5-5bee-19c6-47fc7db6f171.
+[2021-08-31 03:02:28Z ERR  GitHubActionsService] PATCH request to https://pipelines.actions.githubusercontent.com/b3Q6rGtZq0lKL7NlLXITz4mhFB9IG7rgtssN0Ki0u2O3VEuw4t/_apis/distributedtask/pools/1/jobrequests/1?lockToken=00000000-0000-0000-0000-000000000000 failed. HTTP Status: BadRequest, AFD Ref: Ref A: 47A17CEA26AB4D4E9D80E5297744280B Ref B: DNAEDGE0109 Ref C: 2021-08-31T03:02:28Z
+[2021-08-31 03:02:28Z INFO JobDispatcher] TaskAgentJobTokenExpiredException received renew job request 1, job is no longer valid, stop renew job request.
+[2021-08-31 03:02:28Z INFO JobDispatcher] Unable to renew job request for job 0e10f8dd-85b5-5bee-19c6-47fc7db6f171 for the first time, stop dispatching job to worker.
+[2021-08-31 03:02:31Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/chaithra/Documents/assignment-1-chaisuresh/.credentials_rsaparams
+[2021-08-31 03:02:31Z INFO MessageListener] Message '2' received from session 'fea8a19c-aff8-4039-b9e8-f01ca0e1fbf2'.
+[2021-08-31 03:02:31Z INFO JobDispatcher] Job request 2 for plan 75d72f1b-2f62-4ccb-bee4-97bb81e49608 job a047640a-23da-5e9b-1ef8-917a09b3753a received.
+[2021-08-31 03:02:31Z INFO JobDispatcher] Pull OrchestrationId 75d72f1b-2f62-4ccb-bee4-97bb81e49608.full-test.__default from JWT claims
+[2021-08-31 03:02:31Z INFO JobDispatcher] Job request 0e10f8dd-85b5-5bee-19c6-47fc7db6f171 processed succeed.
+[2021-08-31 03:02:31Z INFO Terminal] WRITE LINE: 2021-08-31 03:02:31Z: Running job: full-test
+[2021-08-31 03:02:31Z INFO JobDispatcher] Start renew job request 2 for job a047640a-23da-5e9b-1ef8-917a09b3753a.
+[2021-08-31 03:02:31Z INFO JobDispatcher] Successfully renew job request 2, job is valid till 8/31/2021 3:12:31 AM
+[2021-08-31 03:02:31Z INFO HostContext] Well known directory 'Bin': '/home/chaithra/Documents/assignment-1-chaisuresh/bin'
+[2021-08-31 03:02:31Z INFO ProcessInvokerWrapper] Starting process:
+[2021-08-31 03:02:31Z INFO ProcessInvokerWrapper]   File name: '/home/chaithra/Documents/assignment-1-chaisuresh/bin/Runner.Worker'
+[2021-08-31 03:02:31Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 100 103'
+[2021-08-31 03:02:31Z INFO ProcessInvokerWrapper]   Working directory: '/home/chaithra/Documents/assignment-1-chaisuresh/bin'
+[2021-08-31 03:02:31Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2021-08-31 03:02:31Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2021-08-31 03:02:31Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2021-08-31 03:02:31Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2021-08-31 03:02:31Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2021-08-31 03:02:31Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2021-08-31 03:02:31Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2021-08-31 03:02:31Z INFO ProcessInvokerWrapper] Process started with process id 7513, waiting for process exit.
+[2021-08-31 03:02:31Z INFO JobDispatcher] Send job request message to worker for job a047640a-23da-5e9b-1ef8-917a09b3753a.
+[2021-08-31 03:02:31Z INFO ProcessChannel] Sending message of length 34790, with hash '94f480ae45885ed251ed8e05e9d11bdcad6e9519ea98ae8e9b9eef2cb9a5f1dc'
+[2021-08-31 03:02:31Z INFO JobNotification] Entering JobStarted Notification
+[2021-08-31 03:02:31Z INFO JobNotification] Entering StartMonitor
+[2021-08-31 03:02:58Z INFO Terminal] WRITE LINE: Exiting...
+[2021-08-31 03:02:58Z INFO ConfigurationStore] IsServiceConfigured()
+[2021-08-31 03:02:58Z INFO ConfigurationStore] IsServiceConfigured: False
+[2021-08-31 03:02:58Z INFO HostContext] Runner will be shutdown for UserCancelled
+[2021-08-31 03:02:58Z WARN GitHubActionsService] GET request to https://pipelines.actions.githubusercontent.com/b3Q6rGtZq0lKL7NlLXITz4mhFB9IG7rgtssN0Ki0u2O3VEuw4t/_apis/distributedtask/pools/1/messages?sessionId=fea8a19c-aff8-4039-b9e8-f01ca0e1fbf2&lastMessageId=2 has been cancelled.
+[2021-08-31 03:02:58Z INFO MessageListener] Get next message has been cancelled.
+[2021-08-31 03:02:58Z INFO JobDispatcher] Shutting down JobDispatcher. Make sure all WorkerDispatcher has finished.
+[2021-08-31 03:02:58Z INFO JobDispatcher] Ensure WorkerDispather for job a047640a-23da-5e9b-1ef8-917a09b3753a run to finish, cancel any running job.
+[2021-08-31 03:02:58Z INFO JobDispatcher] Send job cancellation message to worker for job a047640a-23da-5e9b-1ef8-917a09b3753a.
+[2021-08-31 03:02:58Z INFO ProcessChannel] Sending message of length 0, with hash 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'
+[2021-08-31 03:03:01Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2021-08-31 03:03:01Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2021-08-31 03:03:01Z INFO ProcessInvokerWrapper] Finished process 7513 with exit code 103, and elapsed time 00:00:29.9309268.
+[2021-08-31 03:03:01Z INFO JobDispatcher] finish job request for job a047640a-23da-5e9b-1ef8-917a09b3753a with result: Canceled
+[2021-08-31 03:03:01Z INFO Terminal] WRITE LINE: 2021-08-31 03:03:01Z: Job full-test completed with result: Canceled
+[2021-08-31 03:03:01Z INFO JobDispatcher] Stop renew job request for job a047640a-23da-5e9b-1ef8-917a09b3753a.
+[2021-08-31 03:03:01Z INFO JobDispatcher] job renew has been canceled, stop renew job request 2.
+[2021-08-31 03:03:01Z INFO JobNotification] Entering JobCompleted Notification
+[2021-08-31 03:03:01Z INFO JobNotification] Entering EndMonitor
+[2021-08-31 03:03:01Z INFO Listener] Runner execution been cancelled.
