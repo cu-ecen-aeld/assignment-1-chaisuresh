@@ -1,0 +1,230 @@
+[2021-08-30 22:20:36Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2021-08-30 22:20:36Z INFO HostContext] Well known directory 'Bin': '/home/chaithra/Documents/assignment-1-chaisuresh/bin'
+[2021-08-30 22:20:36Z INFO HostContext] Well known directory 'Root': '/home/chaithra/Documents/assignment-1-chaisuresh'
+[2021-08-30 22:20:36Z INFO HostContext] Well known config file 'Credentials': '/home/chaithra/Documents/assignment-1-chaisuresh/.credentials'
+[2021-08-30 22:20:36Z INFO Listener] Runner is built for Linux (X64) - linux-x64.
+[2021-08-30 22:20:36Z INFO Listener] RuntimeInformation: Linux 5.11.0-27-generic #29~20.04.1-Ubuntu SMP Wed Aug 11 15:58:17 UTC 2021.
+[2021-08-30 22:20:36Z INFO Listener] Version: 2.280.3
+[2021-08-30 22:20:36Z INFO Listener] Commit: 409920e9f03bd38fe6e58807f069394993ce32e4
+[2021-08-30 22:20:36Z INFO Listener] Culture: en-US
+[2021-08-30 22:20:36Z INFO Listener] UI Culture: en-US
+[2021-08-30 22:20:36Z INFO HostContext] Well known directory 'Bin': '/home/chaithra/Documents/assignment-1-chaisuresh/bin'
+[2021-08-30 22:20:36Z INFO HostContext] Well known directory 'Root': '/home/chaithra/Documents/assignment-1-chaisuresh'
+[2021-08-30 22:20:36Z INFO Listener] Validating directory permissions for: '/home/chaithra/Documents/assignment-1-chaisuresh'
+[2021-08-30 22:20:36Z INFO CommandLineParser] Parse
+[2021-08-30 22:20:36Z INFO CommandLineParser] Parsing 5 args
+[2021-08-30 22:20:36Z INFO CommandLineParser] parsing argument
+[2021-08-30 22:20:36Z INFO CommandLineParser] HasArgs: False
+[2021-08-30 22:20:36Z INFO CommandLineParser] Adding Command: configure
+[2021-08-30 22:20:36Z INFO CommandLineParser] parsing argument
+[2021-08-30 22:20:36Z INFO CommandLineParser] HasArgs: True
+[2021-08-30 22:20:36Z INFO CommandLineParser] arg: url
+[2021-08-30 22:20:36Z INFO CommandLineParser] parsing argument
+[2021-08-30 22:20:36Z INFO CommandLineParser] HasArgs: True
+[2021-08-30 22:20:36Z INFO CommandLineParser] Adding option 'url': 'https://github.com/cu-ecen-aeld/assignment-1-chaisuresh'
+[2021-08-30 22:20:36Z INFO CommandLineParser] parsing argument
+[2021-08-30 22:20:36Z INFO CommandLineParser] HasArgs: True
+[2021-08-30 22:20:36Z INFO CommandLineParser] arg: token
+[2021-08-30 22:20:36Z INFO CommandLineParser] parsing argument
+[2021-08-30 22:20:36Z INFO CommandLineParser] HasArgs: True
+[2021-08-30 22:20:36Z INFO CommandLineParser] Adding option 'token': '***'
+[2021-08-30 22:20:36Z INFO Listener] Arguments parsed
+[2021-08-30 22:20:36Z INFO Runner] ExecuteCommand
+[2021-08-30 22:20:36Z INFO ConfigurationStore] currentAssemblyLocation: /home/chaithra/Documents/assignment-1-chaisuresh/bin/Runner.Listener.dll
+[2021-08-30 22:20:36Z INFO HostContext] Well known directory 'Bin': '/home/chaithra/Documents/assignment-1-chaisuresh/bin'
+[2021-08-30 22:20:36Z INFO ConfigurationStore] binPath: /home/chaithra/Documents/assignment-1-chaisuresh/bin
+[2021-08-30 22:20:36Z INFO HostContext] Well known directory 'Bin': '/home/chaithra/Documents/assignment-1-chaisuresh/bin'
+[2021-08-30 22:20:36Z INFO HostContext] Well known directory 'Root': '/home/chaithra/Documents/assignment-1-chaisuresh'
+[2021-08-30 22:20:36Z INFO ConfigurationStore] RootFolder: /home/chaithra/Documents/assignment-1-chaisuresh
+[2021-08-30 22:20:36Z INFO HostContext] Well known directory 'Bin': '/home/chaithra/Documents/assignment-1-chaisuresh/bin'
+[2021-08-30 22:20:36Z INFO HostContext] Well known directory 'Root': '/home/chaithra/Documents/assignment-1-chaisuresh'
+[2021-08-30 22:20:36Z INFO HostContext] Well known config file 'Runner': '/home/chaithra/Documents/assignment-1-chaisuresh/.runner'
+[2021-08-30 22:20:36Z INFO ConfigurationStore] ConfigFilePath: /home/chaithra/Documents/assignment-1-chaisuresh/.runner
+[2021-08-30 22:20:36Z INFO HostContext] Well known directory 'Bin': '/home/chaithra/Documents/assignment-1-chaisuresh/bin'
+[2021-08-30 22:20:36Z INFO HostContext] Well known directory 'Root': '/home/chaithra/Documents/assignment-1-chaisuresh'
+[2021-08-30 22:20:36Z INFO HostContext] Well known config file 'Credentials': '/home/chaithra/Documents/assignment-1-chaisuresh/.credentials'
+[2021-08-30 22:20:36Z INFO ConfigurationStore] CredFilePath: /home/chaithra/Documents/assignment-1-chaisuresh/.credentials
+[2021-08-30 22:20:36Z INFO HostContext] Well known directory 'Bin': '/home/chaithra/Documents/assignment-1-chaisuresh/bin'
+[2021-08-30 22:20:36Z INFO HostContext] Well known directory 'Root': '/home/chaithra/Documents/assignment-1-chaisuresh'
+[2021-08-30 22:20:36Z INFO HostContext] Well known config file 'MigratedCredentials': '/home/chaithra/Documents/assignment-1-chaisuresh/.credentials_migrated'
+[2021-08-30 22:20:36Z INFO ConfigurationStore] MigratedCredFilePath: /home/chaithra/Documents/assignment-1-chaisuresh/.credentials_migrated
+[2021-08-30 22:20:36Z INFO HostContext] Well known directory 'Bin': '/home/chaithra/Documents/assignment-1-chaisuresh/bin'
+[2021-08-30 22:20:36Z INFO HostContext] Well known directory 'Root': '/home/chaithra/Documents/assignment-1-chaisuresh'
+[2021-08-30 22:20:36Z INFO HostContext] Well known config file 'Service': '/home/chaithra/Documents/assignment-1-chaisuresh/.service'
+[2021-08-30 22:20:36Z INFO ConfigurationStore] ServiceConfigFilePath: /home/chaithra/Documents/assignment-1-chaisuresh/.service
+[2021-08-30 22:20:36Z INFO CommandSettings] Flag 'help': 'False'
+[2021-08-30 22:20:36Z INFO CommandSettings] Flag 'version': 'False'
+[2021-08-30 22:20:36Z INFO CommandSettings] Flag 'commit': 'False'
+[2021-08-30 22:20:36Z INFO CommandSettings] Flag 'check': 'False'
+[2021-08-30 22:20:36Z INFO CommandSettings] Command 'configure': 'True'
+[2021-08-30 22:20:36Z INFO Terminal] WRITE LINE: 
+[2021-08-30 22:20:36Z INFO Terminal] WRITE LINE: --------------------------------------------------------------------------------
+[2021-08-30 22:20:36Z INFO Terminal] WRITE LINE: |        ____ _ _   _   _       _          _        _   _                      |
+[2021-08-30 22:20:36Z INFO Terminal] WRITE LINE: |       / ___(_) |_| | | |_   _| |__      / \   ___| |_(_) ___  _ __  ___      |
+[2021-08-30 22:20:36Z INFO Terminal] WRITE LINE: |      | |  _| | __| |_| | | | | '_ \    / _ \ / __| __| |/ _ \| '_ \/ __|     |
+[2021-08-30 22:20:36Z INFO Terminal] WRITE LINE: |      | |_| | | |_|  _  | |_| | |_) |  / ___ \ (__| |_| | (_) | | | \__ \     |
+[2021-08-30 22:20:36Z INFO Terminal] WRITE LINE: |       \____|_|\__|_| |_|\__,_|_.__/  /_/   \_\___|\__|_|\___/|_| |_|___/     |
+[2021-08-30 22:20:36Z INFO Terminal] WRITE LINE: |                                                                              |
+[2021-08-30 22:20:36Z INFO Terminal] WRITE: |                       
+[2021-08-30 22:20:36Z INFO Terminal] WRITE: Self-hosted runner registration
+[2021-08-30 22:20:36Z INFO Terminal] WRITE LINE:                         |
+[2021-08-30 22:20:36Z INFO Terminal] WRITE LINE: |                                                                              |
+[2021-08-30 22:20:36Z INFO Terminal] WRITE LINE: --------------------------------------------------------------------------------
+[2021-08-30 22:20:36Z INFO ConfigurationManager] ConfigureAsync
+[2021-08-30 22:20:36Z INFO ConfigurationStore] IsConfigured()
+[2021-08-30 22:20:36Z INFO ConfigurationStore] IsConfigured: False
+[2021-08-30 22:20:36Z INFO ConfigurationManager] Is configured: False
+[2021-08-30 22:20:36Z INFO CommandSettings] Arg 'url': 'https://github.com/cu-ecen-aeld/assignment-1-chaisuresh'
+[2021-08-30 22:20:36Z INFO CommandSettings] Remove url from Arg dictionary.
+[2021-08-30 22:20:36Z INFO CommandSettings] Arg 'token': '***'
+[2021-08-30 22:20:36Z INFO CommandSettings] Remove token from Arg dictionary.
+[2021-08-30 22:20:36Z INFO ConfigurationManager] Http response code: OK from 'POST https://api.github.com/actions/runner-registration'
+[2021-08-30 22:20:36Z INFO ConfigurationManager] cred retrieved via GitHub auth
+[2021-08-30 22:20:36Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2021-08-30 22:20:36Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2021-08-30 22:20:36Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2021-08-30 22:20:36Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2021-08-30 22:20:36Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2021-08-30 22:20:36Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2021-08-30 22:20:37Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2021-08-30 22:20:37Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2021-08-30 22:20:38Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2021-08-30 22:20:38Z INFO Terminal] WRITE LINE: 
+[2021-08-30 22:20:38Z INFO ConfigurationManager] Test Connection complete.
+[2021-08-30 22:20:38Z INFO HostContext] Well known directory 'Bin': '/home/chaithra/Documents/assignment-1-chaisuresh/bin'
+[2021-08-30 22:20:38Z INFO HostContext] Well known directory 'Root': '/home/chaithra/Documents/assignment-1-chaisuresh'
+[2021-08-30 22:20:38Z INFO HostContext] Well known config file 'RSACredentials': '/home/chaithra/Documents/assignment-1-chaisuresh/.credentials_rsaparams'
+[2021-08-30 22:20:38Z INFO RSAFileKeyManager] Creating new RSA key using 2048-bit key length
+[2021-08-30 22:20:38Z INFO RSAFileKeyManager] Successfully saved RSA key parameters to file /home/chaithra/Documents/assignment-1-chaisuresh/.credentials_rsaparams
+[2021-08-30 22:20:38Z INFO RSAFileKeyManager] Which: 'chmod'
+[2021-08-30 22:20:38Z INFO RSAFileKeyManager] Location: '/usr/bin/chmod'
+[2021-08-30 22:20:38Z INFO HostContext] Well known directory 'Bin': '/home/chaithra/Documents/assignment-1-chaisuresh/bin'
+[2021-08-30 22:20:38Z INFO HostContext] Well known directory 'Root': '/home/chaithra/Documents/assignment-1-chaisuresh'
+[2021-08-30 22:20:38Z INFO ProcessInvokerWrapper] Starting process:
+[2021-08-30 22:20:38Z INFO ProcessInvokerWrapper]   File name: '/usr/bin/chmod'
+[2021-08-30 22:20:38Z INFO ProcessInvokerWrapper]   Arguments: '600 /home/chaithra/Documents/assignment-1-chaisuresh/.credentials_rsaparams'
+[2021-08-30 22:20:38Z INFO ProcessInvokerWrapper]   Working directory: '/home/chaithra/Documents/assignment-1-chaisuresh'
+[2021-08-30 22:20:38Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2021-08-30 22:20:38Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2021-08-30 22:20:38Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'False'
+[2021-08-30 22:20:38Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2021-08-30 22:20:38Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2021-08-30 22:20:38Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2021-08-30 22:20:38Z INFO ProcessInvokerWrapper]   High priority process: 'False'
+[2021-08-30 22:20:38Z INFO ProcessInvokerWrapper] Failed to update oom_score_adj for PID: 4645.
+[2021-08-30 22:20:38Z INFO ProcessInvokerWrapper] System.UnauthorizedAccessException: Access to the path '/proc/4645/oom_score_adj' is denied.
+ ---> System.IO.IOException: Permission denied
+   --- End of inner exception stack trace ---
+   at Interop.ThrowExceptionForIoErrno(ErrorInfo errorInfo, String path, Boolean isDirectory, Func`2 errorRewriter)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String path, OpenFlags flags, Int32 mode)
+   at System.IO.FileStream.OpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamWriter.ValidateArgsAndOpenPath(String path, Boolean append, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamWriter..ctor(String path)
+   at System.IO.File.WriteAllText(String path, String contents)
+   at GitHub.Runner.Sdk.ProcessInvoker.WriteProcessOomScoreAdj(Int32 processId, Int32 oomScoreAdj)
+[2021-08-30 22:20:38Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2021-08-30 22:20:38Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2021-08-30 22:20:38Z INFO ProcessInvokerWrapper] Process started with process id 4645, waiting for process exit.
+[2021-08-30 22:20:38Z INFO ProcessInvokerWrapper] Finished process 4645 with exit code 0, and elapsed time 00:00:00.0127758.
+[2021-08-30 22:20:38Z INFO RSAFileKeyManager] Successfully set permissions for RSA key parameters file /home/chaithra/Documents/assignment-1-chaisuresh/.credentials_rsaparams
+[2021-08-30 22:20:38Z INFO CommandSettings] Arg 'runnergroup': ''
+[2021-08-30 22:20:38Z INFO CommandSettings] Flag 'unattended': 'False'
+[2021-08-30 22:20:38Z INFO PromptManager] ReadValue
+[2021-08-30 22:20:38Z INFO Terminal] WRITE: Enter the name of the runner group to add this runner to: 
+[2021-08-30 22:20:38Z INFO Terminal] WRITE: [press Enter for Default] 
+[2021-08-30 22:20:38Z INFO Terminal] READ LINE
+[2021-08-30 22:20:42Z INFO Terminal] Read value: ''
+[2021-08-30 22:20:42Z INFO PromptManager] Falling back to the default: 'Default'
+[2021-08-30 22:20:42Z INFO Terminal] WRITE LINE: 
+[2021-08-30 22:20:42Z INFO ConfigurationManager] Found a self-hosted runner group with id 1 and name Default
+[2021-08-30 22:20:42Z INFO CommandSettings] Arg 'name': ''
+[2021-08-30 22:20:42Z INFO CommandSettings] Flag 'unattended': 'False'
+[2021-08-30 22:20:42Z INFO PromptManager] ReadValue
+[2021-08-30 22:20:42Z INFO Terminal] WRITE: Enter the name of runner: 
+[2021-08-30 22:20:42Z INFO Terminal] WRITE: [press Enter for chaithra-VirtualBox] 
+[2021-08-30 22:20:42Z INFO Terminal] READ LINE
+[2021-08-30 22:20:44Z INFO Terminal] Read value: ''
+[2021-08-30 22:20:44Z INFO PromptManager] Falling back to the default: 'chaithra-VirtualBox'
+[2021-08-30 22:20:44Z INFO Terminal] WRITE LINE: 
+[2021-08-30 22:20:44Z INFO CommandSettings] Arg 'labels': ''
+[2021-08-30 22:20:44Z INFO CommandSettings] Flag 'unattended': 'False'
+[2021-08-30 22:20:44Z INFO PromptManager] ReadValue
+[2021-08-30 22:20:44Z INFO Terminal] WRITE: This runner will have the following labels: 'self-hosted', 'Linux', 'X64' 
+Enter any additional labels (ex. label-1,label-2): 
+[2021-08-30 22:20:44Z INFO Terminal] WRITE: [press Enter to skip] 
+[2021-08-30 22:20:44Z INFO Terminal] READ LINE
+[2021-08-30 22:20:47Z INFO Terminal] Read value: ''
+[2021-08-30 22:20:47Z INFO Terminal] WRITE LINE: 
+[2021-08-30 22:20:47Z INFO ConfigurationStore] Saving OAuth credential @ /home/chaithra/Documents/assignment-1-chaisuresh/.credentials
+[2021-08-30 22:20:47Z INFO ConfigurationStore] Credentials Saved.
+[2021-08-30 22:20:47Z INFO ConfigurationStore] HasCredentials()
+[2021-08-30 22:20:47Z INFO ConfigurationStore] stored True
+[2021-08-30 22:20:47Z INFO CredentialManager] GetCredentialProvider
+[2021-08-30 22:20:47Z INFO CredentialManager] Creating type OAuth
+[2021-08-30 22:20:47Z INFO CredentialManager] Creating credential type: OAuth
+[2021-08-30 22:20:47Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/chaithra/Documents/assignment-1-chaisuresh/.credentials_rsaparams
+[2021-08-30 22:20:47Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2021-08-30 22:20:47Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2021-08-30 22:20:47Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2021-08-30 22:20:47Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2021-08-30 22:20:47Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2021-08-30 22:20:47Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2021-08-30 22:20:47Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2021-08-30 22:20:47Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2021-08-30 22:20:48Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2021-08-30 22:20:48Z WARN GitHubActionsService] Authentication failed with status code 401.
+WWW-Authenticate: Bearer
+Strict-Transport-Security: max-age=2592000
+X-TFS-ProcessId: 9198a7cc-4c9b-4cf1-845a-7dabf00c535c
+ActivityId: 620d5cbe-c755-44da-a320-6aa5a4d7dbf7
+X-TFS-Session: 45eb0563-f73f-4d9d-8aa4-87c26772ad93
+X-VSS-E2EID: 39db4d92-a192-498c-b807-e4b82c4d41de
+X-VSS-SenderDeploymentId: 1139089e-89fd-ce7a-6851-1ac6328a300e
+X-TFS-ServiceError: The+user+%27System%3aPublicAccess%3baaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa%27+is+not+authorized+to+access+this+resource.
+X-VSS-S2STargetService: 0000005A-0000-8888-8000-000000000000/visualstudio.com
+X-Cache: CONFIG_NOCACHE
+X-MSEdge-Ref: Ref A: 5FD0803669FE4A72A744F191FA608863 Ref B: CHGEDGE1906 Ref C: 2021-08-30T22:20:48Z
+Date: Mon, 30 Aug 2021 22:20:47 GMT
+
+[2021-08-30 22:20:48Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/chaithra/Documents/assignment-1-chaisuresh/.credentials_rsaparams
+[2021-08-30 22:20:48Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/chaithra/Documents/assignment-1-chaisuresh/.credentials_rsaparams
+[2021-08-30 22:20:48Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2021-08-30 22:20:48Z INFO CommandSettings] Arg 'work': ''
+[2021-08-30 22:20:48Z INFO CommandSettings] Flag 'unattended': 'False'
+[2021-08-30 22:20:48Z INFO PromptManager] ReadValue
+[2021-08-30 22:20:48Z INFO Terminal] WRITE: Enter name of work folder: 
+[2021-08-30 22:20:48Z INFO Terminal] WRITE: [press Enter for _work] 
+[2021-08-30 22:20:48Z INFO Terminal] READ LINE
+[2021-08-30 22:20:50Z INFO Terminal] Read value: ''
+[2021-08-30 22:20:50Z INFO PromptManager] Falling back to the default: '_work'
+[2021-08-30 22:20:50Z INFO ConfigurationStore] Saving runner settings.
+[2021-08-30 22:20:50Z INFO ConfigurationStore] Settings Saved.
+[2021-08-30 22:20:50Z INFO Terminal] WRITE LINE: 
+[2021-08-30 22:20:50Z INFO Terminal] WRITE LINE: 
+[2021-08-30 22:20:50Z INFO SystemDControlManager] Service name 'actions.runner.cu-ecen-aeld-assignment-1-chaisuresh.chaithra-VirtualBox.service' display name 'GitHub Actions Runner (cu-ecen-aeld-assignment-1-chaisuresh.chaithra-VirtualBox)' will be used for service configuration.
+[2021-08-30 22:20:50Z INFO HostContext] Well known directory 'Bin': '/home/chaithra/Documents/assignment-1-chaisuresh/bin'
+[2021-08-30 22:20:50Z INFO HostContext] Well known directory 'Root': '/home/chaithra/Documents/assignment-1-chaisuresh'
+[2021-08-30 22:20:50Z INFO HostContext] Well known directory 'Bin': '/home/chaithra/Documents/assignment-1-chaisuresh/bin'
+[2021-08-30 22:20:50Z INFO HostContext] Well known directory 'Bin': '/home/chaithra/Documents/assignment-1-chaisuresh/bin'
+[2021-08-30 22:20:50Z INFO HostContext] Well known directory 'Root': '/home/chaithra/Documents/assignment-1-chaisuresh'
+[2021-08-30 22:20:50Z INFO UnixUtil] Which: 'chmod'
+[2021-08-30 22:20:50Z INFO UnixUtil] Location: '/usr/bin/chmod'
+[2021-08-30 22:20:50Z INFO UnixUtil] Running /usr/bin/chmod 755 "/home/chaithra/Documents/assignment-1-chaisuresh/svc.sh"
+[2021-08-30 22:20:50Z INFO ProcessInvokerWrapper] Starting process:
+[2021-08-30 22:20:50Z INFO ProcessInvokerWrapper]   File name: '/usr/bin/chmod'
+[2021-08-30 22:20:50Z INFO ProcessInvokerWrapper]   Arguments: '755 "/home/chaithra/Documents/assignment-1-chaisuresh/svc.sh"'
+[2021-08-30 22:20:50Z INFO ProcessInvokerWrapper]   Working directory: '/home/chaithra/Documents/assignment-1-chaisuresh'
+[2021-08-30 22:20:50Z INFO ProcessInvokerWrapper]   Require exit code zero: 'True'
+[2021-08-30 22:20:50Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2021-08-30 22:20:50Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'False'
+[2021-08-30 22:20:50Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2021-08-30 22:20:50Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2021-08-30 22:20:50Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2021-08-30 22:20:50Z INFO ProcessInvokerWrapper]   High priority process: 'False'
+[2021-08-30 22:20:50Z INFO ProcessInvokerWrapper] Updated oom_score_adj to 500 for PID: 4656.
+[2021-08-30 22:20:50Z INFO ProcessInvokerWrapper] Process started with process id 4656, waiting for process exit.
+[2021-08-30 22:20:50Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2021-08-30 22:20:50Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2021-08-30 22:20:50Z INFO ProcessInvokerWrapper] Finished process 4656 with exit code 0, and elapsed time 00:00:00.0028350.
+[2021-08-30 22:20:50Z INFO Listener] Runner execution has finished with return code 0
