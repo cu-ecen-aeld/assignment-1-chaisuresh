@@ -1,9 +1,0 @@
-﻿{
-  "agentId": 22,
-  "agentName": "chaithra-VirtualBox",
-  "poolId": 1,
-  "poolName": "Default",
-  "serverUrl": "https://pipelines.actions.githubusercontent.com/b3Q6rGtZq0lKL7NlLXITz4mhFB9IG7rgtssN0Ki0u2O3VEuw4t",
-  "gitHubUrl": "https://github.com/cu-ecen-aeld/assignment-1-chaisuresh",
-  "workFolder": "_work"
-}
